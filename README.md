@@ -177,7 +177,7 @@ Analysis of the dashboard identified several important business insights.
 | [`Analyst_Reflection.docx`](Documentation/Analyst_Reflection.docx) | Reflection on the analytical process, lessons learned, and project outcomes. |
 | [`Dashboard_Screenshot.png`](Images/Dashboard_Screenshot.png) | Preview image of the completed Executive Retail Sales Dashboard. |
 | `README.md` | Project overview, documentation, repository guide, and business insights. |
-
+---
 ## Analytics Workflow
 
 The resulting dashboard provides business stakeholders with a centralized view of organizational performance, enabling data-driven decision-making through clear, actionable insights.
