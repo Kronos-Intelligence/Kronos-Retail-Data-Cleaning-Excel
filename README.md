@@ -178,9 +178,9 @@ Analysis of the dashboard identified several important business insights.
 | [`Dashboard_Screenshot.png`](Images/Dashboard_Screenshot.png) | Preview image of the completed Executive Retail Sales Dashboard. |
 | `README.md` | Project overview, documentation, repository guide, and business insights. |
 
-## Project Workflow
+## Analytics Workflow
 
-This project followed a structured data analytics workflow to transform raw retail sales data into an executive dashboard.
+The resulting dashboard provides business stakeholders with a centralized view of organizational performance, enabling data-driven decision-making through clear, actionable insights.
 
 1. Imported and profiled the raw retail sales dataset.
 2. Assessed overall data quality and identified inconsistencies.
