@@ -22,7 +22,7 @@ The objective was to transform raw transactional data into meaningful business i
 
 **📸 Insert a full-size screenshot of the completed dashboard below.**
 
-![Executive Retail Sales Dashboard](Dashboard_Screenshot.png)
+![Executive Retail Sales Dashboard](Images/Dashboard_Screenshot.png)
 
 *Save your screenshot as **Dashboard_Screenshot.png** in the root of this repository.*
 
