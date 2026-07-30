@@ -163,28 +163,34 @@ Analysis of the dashboard identified several important business insights.
 
 ---
 
+## Repository Contents
+
 | File | Description |
 |------|-------------|
-| [`Retail_Sales_Executive_Dashboard.xlsx`](Dashboard/Retail_Sales_Executive_Dashboard.xlsx) | Complete Excel dashboard with PivotTables, PivotCharts, KPIs, and executive dashboard |
-| [`retail_sales_dataset.csv`](Data/retail_sales_dataset.csv) | Original retail sales dataset |
-| [`retail_sales_dataset_cleaned.xlsx`](Data/retail_sales_dataset_cleaned.xlsx) | Cleaned dataset used for analysis |
-| [`Data_Quality_Assessment_Report.docx`](Documentation/Data_Quality_Assessment_Report.docx) | Formal assessment of dataset quality |
-| [`Data_Quality_Assessment_Metrics.xlsx`](Documentation/Data_Quality_Assessment_Metrics.xlsx) | Structured data quality assessment worksheet |
-| [`Cleaning_Log.xlsx`](Documentation/Cleaning_Log.xlsx) | Documentation of data cleaning activities |
-| [`Data_Dictionary.xlsx`](Documentation/Data_Dictionary.xlsx) | Definitions and descriptions of dataset fields |
-| [`Analyst_Reflection.docx`](Documentation/Analyst_Reflection.docx) | Project reflection and lessons learned |
+| [`Retail_Sales_Executive_Dashboard.xlsx`](Dashboard/Retail_Sales_Executive_Dashboard.xlsx) | Complete Microsoft Excel dashboard featuring KPIs, PivotTables, PivotCharts, and executive-level visualizations. |
+| [`retail_sales_dataset.csv`](Data/retail_sales_dataset.csv) | Original retail sales dataset used as the starting point for analysis. |
+| [`retail_sales_dataset_cleaned.xlsx`](Data/retail_sales_dataset_cleaned.xlsx) | Cleaned and standardized dataset prepared for analysis and reporting. |
+| [`Data_Quality_Assessment_Report.docx`](Documentation/Data_Quality_Assessment_Report.docx) | Formal report summarizing the data quality assessment, findings, and recommendations. |
+| [`Data_Quality_Assessment_Metrics.xlsx`](Documentation/Data_Quality_Assessment_Metrics.xlsx) | Structured assessment worksheet documenting data quality metrics and evaluation criteria. |
+| [`Cleaning_Log.xlsx`](Documentation/Cleaning_Log.xlsx) | Record of all data cleaning activities performed during the project. |
+| [`Data_Dictionary.xlsx`](Documentation/Data_Dictionary.xlsx) | Definitions, formats, and descriptions for each dataset field. |
+| [`Analyst_Reflection.docx`](Documentation/Analyst_Reflection.docx) | Reflection on the analytical process, lessons learned, and project outcomes. |
+| [`Dashboard_Screenshot.png`](Images/Dashboard_Screenshot.png) | Preview image of the completed Executive Retail Sales Dashboard. |
+| `README.md` | Project overview, documentation, repository guide, and business insights. |
 
-# Project Workflow
+## Project Workflow
 
-The project followed a structured analytics workflow:
+This project followed a structured data analytics workflow to transform raw retail sales data into an executive dashboard.
 
 1. Imported and profiled the raw retail sales dataset.
-2. Identified and corrected data quality issues.
-3. Documented all cleaning activities and data definitions.
-4. Developed executive-level KPIs.
-5. Built PivotTables and PivotCharts to analyze business performance.
-6. Designed an executive dashboard to communicate key business insights.
-7. Produced supporting documentation to ensure transparency and reproducibility.
+2. Assessed overall data quality and identified inconsistencies.
+3. Cleaned and standardized the dataset to improve accuracy and consistency.
+4. Documented the cleaning process and created a comprehensive data dictionary.
+5. Completed a formal data quality assessment to validate the cleaned dataset.
+6. Developed executive-level Key Performance Indicators (KPIs).
+7. Built PivotTables and PivotCharts to analyze sales performance and business trends.
+8. Designed an executive dashboard to communicate actionable business insights.
+9. Produced supporting documentation to ensure transparency and reproducibility.
 
 # Business Value
 
