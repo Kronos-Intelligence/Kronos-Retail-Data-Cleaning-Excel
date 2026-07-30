@@ -216,7 +216,7 @@ Kronos Intelligence develops data analytics solutions that transform raw data in
 
 ## Author
 
-**Tessa Gonzalez**
+**Tessa Becker**
 
 Bachelor of Science in Data Analytics  
 Purdue Global University
