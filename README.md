@@ -163,20 +163,19 @@ Analysis of the dashboard identified several important business insights.
 
 ---
 
-# Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
-Dashboard/Retail_Sales_Executive_Dashboard.xlsx	Complete Excel dashboard with PivotTables, PivotCharts, KPIs, and executive dashboard
-Data/retail_sales_dataset.csv	Original retail sales dataset
-Data/retail_sales_dataset_cleaned.xlsx	Cleaned dataset used for analysis
-Documentation/Data_Quality_Assessment_Report.docx	Formal assessment of dataset quality
-Documentation/Data_Quality_Assessment_Metrics.xlsx	Structured data quality assessment worksheet
-Documentation/Cleaning_Log.xlsx	Documentation of data cleaning activities
-Documentation/Data_Dictionary.xlsx	Definitions and descriptions of dataset fields
-Documentation/Analyst_Reflection.docx	Project reflection and lessons learned
-README.md	Project documentation
-
+| `Dashboard/Retail_Sales_Executive_Dashboard.xlsx` | Complete Excel dashboard with PivotTables, PivotCharts, KPIs, and executive dashboard |
+| `Data/retail_sales_dataset.csv` | Original retail sales dataset |
+| `Data/retail_sales_dataset_cleaned.xlsx` | Cleaned dataset used for analysis |
+| `Documentation/Data_Quality_Assessment_Report.docx` | Formal assessment of dataset quality |
+| `Documentation/Data_Quality_Assessment_Metrics.xlsx` | Structured data quality assessment worksheet |
+| `Documentation/Cleaning_Log.xlsx` | Documentation of data cleaning activities |
+| `Documentation/Data_Dictionary.xlsx` | Definitions and descriptions of dataset fields |
+| `Documentation/Analyst_Reflection.docx` | Project reflection and lessons learned |
+| `README.md` | Project documentation |
 ---
 # Project Workflow
 
