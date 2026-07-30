@@ -24,7 +24,7 @@ The objective was to transform raw transactional data into meaningful business i
 
 ![Executive Retail Sales Dashboard](Images/Dashboard_Screenshot.png)
 
-*Save your screenshot as **Dashboard_Screenshot.png** in the root of this repository.*
+The dashboard screenshot is stored in the **Images** folder and is displayed below.
 
 ---
 
@@ -83,8 +83,8 @@ Before performing any analysis, a comprehensive data quality assessment was comp
 - Standardized currency formatting
 - Reviewed missing values
 - Created a data dictionary
-- Documented business rules
 - Maintained a complete cleaning log
+- Completed a formal data quality assessment
 
 ---
 
@@ -167,16 +167,28 @@ Analysis of the dashboard identified several important business insights.
 
 | File | Description |
 |------|-------------|
-| Executive Dashboard.xlsx | Complete Excel dashboard with PivotTables and visualizations |
-| Retail Sales Dataset (Cleaned).xlsx | Cleaned dataset used for analysis |
-| Data Quality Assessment Report.docx | Formal assessment of dataset quality |
-| Cleaning Log.xlsx | Documentation of all cleaning activities |
-| Data Dictionary.xlsx | Definitions and descriptions of dataset fields |
-| Business Rules.xlsx | Validation rules and assumptions |
-| Reflection.docx | Project reflection and lessons learned |
-| README.md | Project documentation |
+Dashboard/Retail_Sales_Executive_Dashboard.xlsx	Complete Excel dashboard with PivotTables, PivotCharts, KPIs, and executive dashboard
+Data/retail_sales_dataset.csv	Original retail sales dataset
+Data/retail_sales_dataset_cleaned.xlsx	Cleaned dataset used for analysis
+Documentation/Data_Quality_Assessment_Report.docx	Formal assessment of dataset quality
+Documentation/Data_Quality_Assessment_Metrics.xlsx	Structured data quality assessment worksheet
+Documentation/Cleaning_Log.xlsx	Documentation of data cleaning activities
+Documentation/Data_Dictionary.xlsx	Definitions and descriptions of dataset fields
+Documentation/Analyst_Reflection.docx	Project reflection and lessons learned
+README.md	Project documentation
 
 ---
+# Project Workflow
+
+The project followed a structured analytics workflow:
+
+1. Imported and profiled the raw retail sales dataset.
+2. Identified and corrected data quality issues.
+3. Documented all cleaning activities and data definitions.
+4. Developed executive-level KPIs.
+5. Built PivotTables and PivotCharts to analyze business performance.
+6. Designed an executive dashboard to communicate key business insights.
+7. Produced supporting documentation to ensure transparency and reproducibility.
 
 # Business Value
 
@@ -207,6 +219,9 @@ Future improvements could include:
 - Business Analytics
 
 ---
+# Conclusion
+
+This project demonstrates a complete Microsoft Excel analytics workflow, from raw data preparation through executive reporting. By combining data quality assessment, documentation, KPI development, and dashboard design, the project illustrates how Excel can be used to produce reliable business intelligence that supports informed decision-making.
 
 # About Kronos Intelligence
 
