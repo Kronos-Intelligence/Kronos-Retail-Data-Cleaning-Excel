@@ -20,7 +20,7 @@ The objective was to transform raw transactional data into meaningful business i
 >
 > The completed dashboard summarizes key business performance metrics through executive-level KPIs and interactive visualizations. It provides decision-makers with a concise view of sales trends, profitability, customer satisfaction, regional performance, payment method distribution, and shipping efficiency.
 
-**📸 Insert a full-size screenshot of the completed dashboard below.**
+
 
 ![Executive Retail Sales Dashboard](Images/Dashboard_Screenshot.png)
 
